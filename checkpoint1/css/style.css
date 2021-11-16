@@ -1,0 +1,67 @@
+@import url('https://fonts.googleapis.com/css2?family=Praise&family=Rubik&display=swap');
+
+html * {
+    color: gold;
+    margin: 0;
+    padding: 0;
+}
+
+#titulo {
+    
+    color: blue;
+    text-align: center;
+    font-family: 'Praise', cursive;
+    font-size: 50px;
+    font-weight: 200;
+    background-color: yellow;
+    padding: 15px;
+}
+
+span {
+    background-color: rgba(22, 19, 241, 0.6);
+}
+
+#resumo {
+    padding: 20px;
+    text-align: center;
+    font-family: 'Rubik', sans-serif;
+    font-size: 20px;
+}
+
+ul {
+    text-align: center;
+    font-family: 'Rubik', sans-serif;
+    font-size: 20px;
+    margin: 20px 0px;
+}
+
+#corpo {
+    background-image: url("../img/riodejaneiro.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+}
+
+#principal {
+    text-align: center;
+}
+
+.subtitulo {
+        color: white;
+        text-align: center;
+        font-family: 'Praise', cursive;
+        font-size: 40px;
+        font-weight: 200;
+        padding: 10px;
+}
+
+#rodape {
+    text-align: center;
+    padding: 20px;
+}
+
+.icones {
+    margin: 20px;
+    width: 70px;
+    height: 70px;
+}
